@@ -1,7 +1,7 @@
 {
-  "name": "VueAlertdemo",
+  "name": "vuealertdemo",
   "description": "Popover test package upload NPM",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "zhusd <843696504@qq.com>",
   "license": "MIT",
   "private": false,
